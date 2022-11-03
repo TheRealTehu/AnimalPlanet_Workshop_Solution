@@ -1,0 +1,3 @@
+ball;ubuntu;table;water;number;
+apple;wizard;
+mirror;keyboard;movie;

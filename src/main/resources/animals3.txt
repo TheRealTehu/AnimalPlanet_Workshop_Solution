@@ -1,0 +1,3 @@
+ball;parrot;
+horse;bean;thisisnotananimal;parrot;parrot;
+parrot;mirror;chicken;horse;blob;parrot;elephant;

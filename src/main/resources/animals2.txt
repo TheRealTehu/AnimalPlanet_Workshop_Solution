@@ -1,0 +1,3 @@
+parrot;horse;
+parrot;chicken;horse;
+parrot;elephant;
